@@ -93,7 +93,7 @@ We use this categorical data encoding technique when the features are nominal(do
 
 
 
-img width="1805" height="520" alt="Screenshot 2026-02-19 161343" src="https://github.com/user-attachments/assets/eed622fa-b66c-4af5-8082-3311c456ae08" />
+<img width="1805" height="520" alt="Screenshot 2026-02-19 161343" src="https://github.com/user-attachments/assets/eed622fa-b66c-4af5-8082-3311c456ae08" />
 
 
 
